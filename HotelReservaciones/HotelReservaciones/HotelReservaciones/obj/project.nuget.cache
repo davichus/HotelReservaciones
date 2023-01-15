@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h7pFaqtG+o+hciSuVMBwDvRQ2XdvMy0Xf/UqEz4nuDo19QDcszhCzt21BHAb7ncky/kqpfiEK36YuXQ9GziOiw==",
+  "dgSpecHash": "tVvyBDh4OmXvPm3EGKKzQ98W2rLrcMl2HJtJaiQz/cws+A31WcdPGoY7Bf8uybUAGg5u83ZEkqcuR7k8WlEQaQ==",
   "success": true,
-  "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
+  "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
   "expectedPackageFiles": [
     "/Users/davidnavarrete/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

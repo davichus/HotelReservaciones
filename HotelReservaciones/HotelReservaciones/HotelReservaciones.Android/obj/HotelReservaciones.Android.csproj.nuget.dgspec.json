@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj": {}
+    "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj": {}
   },
   "projects": {
-    "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj": {
+    "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
+        "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
         "projectName": "HotelReservaciones.Android",
-        "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
+        "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
         "packagesPath": "/Users/davidnavarrete/.nuget/packages/",
-        "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/obj/",
+        "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj": {
-                "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj"
+              "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj": {
+                "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj": {
+    "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
+        "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
         "projectName": "HotelReservaciones",
-        "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
+        "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
         "packagesPath": "/Users/davidnavarrete/.nuget/packages/",
-        "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/obj/",
+        "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidnavarrete/.config/NuGet/NuGet.Config"
@@ -107,7 +107,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/davidnavarrete/Library/Caches/VisualStudio/17.0/MSBuild/1130_3/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/davidnavarrete/Library/Caches/VisualStudio/17.0/MSBuild/4571_3/RuntimeIdentifierGraph.json"
         }
       }
     }

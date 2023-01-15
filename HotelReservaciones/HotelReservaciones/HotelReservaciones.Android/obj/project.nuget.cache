@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bVQVmvTB/8UlLsfzGTdJ+QtCk/5m5LSKyFlUyaQva0uo27B186goI4P97pB1kG7XTu1PeOOu2FM88AQmoDznlQ==",
+  "dgSpecHash": "y/EwMqbYyQwKp/jAw+cSAKd0juiW8C9nhdBb/elMwPdL2QFubjYM8VPaw2uCOHfAHiWMF3h8I+x2QrpctjU/oQ==",
   "success": true,
-  "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
+  "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
   "expectedPackageFiles": [
     "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.androidx.activity/1.2.4.1/xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

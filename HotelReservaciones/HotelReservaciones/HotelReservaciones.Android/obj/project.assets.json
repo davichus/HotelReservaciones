@@ -3413,11 +3413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
+      "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
       "projectName": "HotelReservaciones.Android",
-      "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
+      "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
       "packagesPath": "/Users/davidnavarrete/.nuget/packages/",
-      "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/obj/",
+      "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3432,8 +3432,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj": {
-              "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj"
+            "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj": {
+              "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj"
             }
           }
         }

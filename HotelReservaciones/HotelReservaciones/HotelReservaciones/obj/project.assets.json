@@ -546,11 +546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
+      "projectUniqueName": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
       "projectName": "HotelReservaciones",
-      "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
+      "projectPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
       "packagesPath": "/Users/davidnavarrete/.nuget/packages/",
-      "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/obj/",
+      "outputPath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidnavarrete/.config/NuGet/NuGet.Config"
@@ -602,7 +602,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/Users/davidnavarrete/Library/Caches/VisualStudio/17.0/MSBuild/1130_3/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/davidnavarrete/Library/Caches/VisualStudio/17.0/MSBuild/4571_3/RuntimeIdentifierGraph.json"
       }
     }
   }
