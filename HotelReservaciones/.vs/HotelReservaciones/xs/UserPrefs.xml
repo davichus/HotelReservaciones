@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{EC421917-7D61-44A1-8A8C-5BB8886A7E0B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelReservaciones/HotelReservaciones/Datos/Reserva.cs">
+    <Files>
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Login.xaml" Line="54" Column="164" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Login.xaml.cs" Line="19" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/App.xaml.cs" Line="17" Column="43" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Registrarse.xaml" Line="64" Column="43" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Registrarse.xaml.cs" Line="18" Column="10" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml" Line="15" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/App.xaml" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Habitacion.xaml" Line="14" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Habitacion.xaml.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Cliente.xaml.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Reserva.xaml" Line="8" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Reserva.xaml.cs" Line="17" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Principal.xaml" Line="18" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Usuario.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Hotel.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Cliente.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Habitacion.cs" Line="1" Column="1" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Reserva.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reserva.xaml.cs">
+            <Node name="Reserva.xaml.cs">
+              <Node name="Datos" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HotelReservaciones.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HotelReservaciones.iOS FirstBuild="True" />
+</Properties>

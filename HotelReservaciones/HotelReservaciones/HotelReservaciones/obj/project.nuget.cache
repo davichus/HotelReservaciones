@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7pFaqtG+o+hciSuVMBwDvRQ2XdvMy0Xf/UqEz4nuDo19QDcszhCzt21BHAb7ncky/kqpfiEK36YuXQ9GziOiw==",
+  "success": true,
+  "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidnavarrete/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
