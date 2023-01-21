@@ -64,7 +64,7 @@
                             <Label/>
                         </StackLayout>
                         <Button x:Name="btnRegistro" Text="Registrar" BackgroundColor="#159EEE" TextColor="White" FontAttributes="Bold" CornerRadius="10" Clicked="btnRegistro_Clicked"/>
-                        <Button x:Name="btnVer" Text="Ver Hoteles" BackgroundColor="#159EEE" TextColor="White" FontAttributes="Bold" CornerRadius="10" Clicked="btnVer_Clicked"/>
+                        <Button x:Name="btnVer" Text="Rezalizar Reserva" BackgroundColor="#5cb85c" TextColor="White" FontAttributes="Bold" CornerRadius="10" Clicked="btnVer_Clicked"/>
                       <Label></Label>
                        
 

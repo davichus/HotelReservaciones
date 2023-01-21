@@ -11,7 +11,15 @@ namespace HotelReservaciones.Controlador
 			return url;
 
         }
-       
-	}
+
+
+        public string urlGetTipoHabitacion()
+        {
+            string url = "http://192.168.100.50/AppHotelService/TipoHabitacion.php";
+            return url;
+
+        }
+
+    }
 }
 

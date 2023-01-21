@@ -5,6 +5,8 @@
     x:Class="HotelReservaciones.Vistas.Reserva">
     <ContentPage.Content>
         <StackLayout>
+            <Label Text="Realizar Reserva" FontSize="20" TextColor="#159EEE" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+
             <ListView x:Name="ListHotel" HorizontalOptions="StartAndExpand" VerticalOptions="FillAndExpand"
 SeparatorColor="LightGray" SeparatorVisibility="Default" HasUnevenRows="True">
 <ListView.ItemTemplate>
