@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GCRo7vCG/QZKYuuPx16y9fVWFmI3PmvMq5Mib7SGCZ+16hLm4W6krnGAOCkNTVF12mtqm6b4f1eKBXPNQt4Fuw==",
+  "dgSpecHash": "bIqiA/k+9Wm2TtOsUZmdGUV0XQqFJrwOsimpNAwDAS94yN+8BOpPCi7OZv/koLtaVAwYQIx/ZNPMk1XhoTM+7Q==",
   "success": true,
   "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.iOS/HotelReservaciones.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/davidnavarrete/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
-    "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms.maps/5.0.0.1874/xamarin.forms.maps.5.0.0.1874.nupkg.sha512"
   ],
   "logs": []
 }

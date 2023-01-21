@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y/EwMqbYyQwKp/jAw+cSAKd0juiW8C9nhdBb/elMwPdL2QFubjYM8VPaw2uCOHfAHiWMF3h8I+x2QrpctjU/oQ==",
+  "dgSpecHash": "Y62Pcjo/UVq4jGpmciel3S55TcXAUW/Z4kam+/Us4AQJVhm4WR8LNXLCjOyQ+e2FuhYbusNyrZk+dlzTPogFmA==",
   "success": true,
   "projectFilePath": "/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones.Android/HotelReservaciones.Android.csproj",
   "expectedPackageFiles": [
+    "/Users/davidnavarrete/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.androidx.activity/1.2.4.1/xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.androidx.annotation/1.2.0.1/xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
@@ -58,10 +59,16 @@
     "/Users/davidnavarrete/.nuget/packages/xamarin.androidx.versionedparcelable/1.1.1.8/xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.androidx.viewpager/1.0.0.8/xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.androidx.viewpager2/1.0.0.10/xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.build.download/0.10.0/xamarin.build.download.0.10.0.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms.maps/5.0.0.1874/xamarin.forms.maps.5.0.0.1874.nupkg.sha512",
     "/Users/davidnavarrete/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
-    "/Users/davidnavarrete/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+    "/Users/davidnavarrete/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.googleplayservices.base/117.1.0/xamarin.googleplayservices.base.117.1.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.googleplayservices.basement/117.1.0/xamarin.googleplayservices.basement.117.1.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.googleplayservices.maps/117.0.0/xamarin.googleplayservices.maps.117.0.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.googleplayservices.tasks/117.0.0/xamarin.googleplayservices.tasks.117.0.0.nupkg.sha512"
   ],
   "logs": []
 }
