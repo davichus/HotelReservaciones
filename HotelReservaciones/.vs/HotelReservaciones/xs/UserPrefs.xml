@@ -1,22 +1,15 @@
 ﻿<Properties StartupConfiguration="{EC421917-7D61-44A1-8A8C-5BB8886A7E0B}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HotelReservaciones/HotelReservaciones.Android/Properties/AndroidManifest.xml">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs">
     <Files>
-      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml" Line="49" Column="84" />
-      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Hotel.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Reserva.cs" />
       <File FileName="HotelReservaciones/HotelReservaciones/Controlador/HotelControlador.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones/Controlador/Service.cs" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Datos/Hotel.cs" Line="13" Column="32" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml" Line="68" Column="30" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" Line="79" Column="45" />
       <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Login.xaml" />
-      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Registrarse.xaml" />
-      <File FileName="HotelReservaciones/HotelReservaciones.Android/MainActivity.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones.Android/obj/Debug/AndroidManifest.xml" Line="18" Column="60" />
-      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Registrarse.xaml.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones.iOS/AppDelegate.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones/AssemblyInfo.cs" />
-      <File FileName="../../../Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/a96bde9730e4c2244536ce5f4250e5e4f4e6780a/mcs/class/referencesource/mscorlib/system/runtime/exceptionservices/exceptionservicescommon.cs" />
-      <File FileName="HotelReservaciones/HotelReservaciones.Android/Properties/AndroidManifest.xml" Line="5" Column="58" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Reserva.xaml" Line="22" Column="12" />
+      <File FileName="HotelReservaciones/HotelReservaciones/Vistas/Reserva.xaml.cs" Line="14" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,15 +19,15 @@
               <Node name="Controlador" expanded="True" />
               <Node name="Datos" expanded="True" />
               <Node name="Vistas" expanded="True">
-                <Node name="Cliente.xaml" expanded="True" />
-                <Node name="Hotel.xaml" expanded="True" />
-                <Node name="Registrarse.xaml" expanded="True" />
+                <Node name="Hotel.xaml" expanded="True">
+                  <Node name="Hotel.xaml.cs" selected="True" />
+                </Node>
               </Node>
-              <Node name="App.xaml" expanded="True" />
             </Node>
             <Node name="HotelReservaciones.Android" expanded="True">
-              <Node name="Properties" expanded="True">
-                <Node name="AndroidManifest.xml" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -42,19 +35,18 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
-  <MonoDevelop.Ide.ItemProperties.HotelReservaciones.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/Controlador/HotelControlador.cs" relfile="HotelReservaciones/HotelReservaciones/Controlador/HotelControlador.cs" line="22" column="1" />
-      <Breakpoint file="/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" relfile="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" line="49" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.HotelReservaciones.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" AndroidDesignerPreferredTheme="MainTheme" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.HotelReservaciones.iOS FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
   <Debugger.DebugSourceFolders>
     <String>/Users/davidnavarrete/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/a96bde9730e4c2244536ce5f4250e5e4f4e6780a</String>
   </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/Controlador/HotelControlador.cs" relfile="HotelReservaciones/HotelReservaciones/Controlador/HotelControlador.cs" line="23" column="1" />
+      <Breakpoint file="/Users/davidnavarrete/Projects/HotelReservaciones/HotelReservaciones/HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" relfile="HotelReservaciones/HotelReservaciones/Vistas/Hotel.xaml.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

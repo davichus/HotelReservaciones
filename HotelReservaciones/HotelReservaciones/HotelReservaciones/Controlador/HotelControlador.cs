@@ -32,7 +32,8 @@ namespace HotelReservaciones.Controlador
                                string correoHotel,
                                string direccionHote,
                                string ubicacionHotel,
-                               string telefonoHotel)
+                               string telefonoHotel,
+                               string fotoHotel)
         {
             try
             {
@@ -43,6 +44,7 @@ namespace HotelReservaciones.Controlador
                 parametros.Add("direccionHotel", direccionHote);
                 parametros.Add("ubicacionHotel", ubicacionHotel);
                 parametros.Add("telefonoHotel", telefonoHotel);
+                parametros.Add("fotoHotel", fotoHotel);
                 cliente.UploadValues(servicio.urlHotel().ToString(), "POST", parametros);
             }
             catch (Exception ex)

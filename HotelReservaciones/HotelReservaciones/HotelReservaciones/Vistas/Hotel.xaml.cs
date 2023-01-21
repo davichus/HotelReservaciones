@@ -63,7 +63,8 @@ namespace HotelReservaciones.Vistas
                                  txtEmail.Text,
                                  txtDireccion.Text,
                                  txtUbicacion.Text,
-                                 txtTelefono.Text);
+                                 txtTelefono.Text,
+                                 txtFoto.Text);
                 DisplayAlert("Alerta", "Rsgistro correcto", "Cerrar");
                 Navigation.PushAsync(new Principal());
             }
@@ -73,6 +74,10 @@ namespace HotelReservaciones.Vistas
             }
         }
 
+        void btnVer_Clicked(System.Object sender, System.EventArgs e)
+        {
+            Navigation.PushAsync(new Reserva());
+        }
 
 
     }

@@ -10,6 +10,7 @@ namespace HotelReservaciones.Datos
         public string direccionHotel { get; set; }
         public string ubicacionHotel { get; set; }
         public string telefonoHotel { get; set; }
+        public string fotoHotel { get; set; }
         public string estadoHotel { get; set; }
     }
 }
