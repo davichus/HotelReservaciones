@@ -23,6 +23,11 @@ namespace HotelReservaciones.Controlador
             string url = urlservicio+"/AppHotelService/Habitacion.php";
             return url;
         }
+        public string urlGetHabitacionIdHabitacion()
+        {
+            string url = urlservicio + "/AppHotelService/Habitacion.php?idHabitacion=";
+            return url;
+        }
 
         public string urlGetHotelHabitacion()
         {
