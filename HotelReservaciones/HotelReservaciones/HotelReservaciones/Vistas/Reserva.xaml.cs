@@ -27,6 +27,25 @@ namespace HotelReservaciones.Vistas
             _post = new ObservableCollection<Datos.Hotel>(posts);
             ListHotel.ItemsSource = _post;
         }
+
+       
+
+        async void ListHotel_ItemTapped(System.Object sender, Xamarin.Forms.ItemTappedEventArgs e)
+        {
+            try
+            {
+                var hotelSelect = (Datos.Hotel)e.Item;
+                string codigo = hotelSelect.idHotel.ToString();
+                // await DisplayAlert("You selected", codigo, "Cancel");
+                await Navigation.PushAsync(new HabitacionesHotel(codigo));
+
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Error", ex.Message.ToString(), "Ok");
+
+            }
+        }
     }
 }
 

@@ -3,21 +3,31 @@ namespace HotelReservaciones.Controlador
 {
 	public class Service
 	{
-		
 
+        private string urlservicio = "http://192.168.100.50";
 		public string urlHotel()
 		{
-			string url = "http://192.168.100.50/AppHotelService/Hotel.php";
+			string url = urlservicio+"/AppHotelService/Hotel.php";
 			return url;
-
         }
 
 
         public string urlGetTipoHabitacion()
         {
-            string url = "http://192.168.100.50/AppHotelService/TipoHabitacion.php";
+            string url = urlservicio+"/AppHotelService/TipoHabitacion.php";
             return url;
+        }
 
+        public string urlGetHabitacion()
+        {
+            string url = urlservicio+"/AppHotelService/Habitacion.php";
+            return url;
+        }
+
+        public string urlGetHotelHabitacion()
+        {
+            string url = urlservicio+"/AppHotelService/HotelHabitacion.php?idHotel=";
+            return url;
         }
 
     }

@@ -10,6 +10,7 @@ namespace HotelReservaciones.Vistas
 {
     public partial class Habitacion : ContentPage
     {
+        HabitacionControlador habitacion = new HabitacionControlador();
         private readonly HttpClient client = new HttpClient();
         private ObservableCollection<Datos.Hotel> _post;
         private ObservableCollection<Datos.TipoHabitacion> _posttipo;
@@ -23,6 +24,27 @@ namespace HotelReservaciones.Vistas
 
         void btnAgregar_Clicked(System.Object sender, System.EventArgs e)
         {
+            int idHotel = ((Datos.Hotel)listhotel.SelectedItem).idHotel;
+            string tipoHabitacion = ((Datos.TipoHabitacion)ddllTipo.SelectedItem).descTipo;
+            int capacidad = Convert.ToInt32(txtcapacidad.Text);
+            double precio = Convert.ToDouble(txtPrecio.Text);
+            string resultado = habitacion.nuevaHabitacion(idHotel,
+                                                          txtcodigoHabitacion.Text,
+                                                          tipoHabitacion,
+                                                          txtnombreHabitacion.Text,
+                                                          txtfoto1Habitacion.Text,
+                                                          txtfoto2Habitacion.Text,
+                                                          capacidad,
+                                                          precio);
+            if (resultado == "Exito")
+            {
+                DisplayAlert("Alerta", "Rsgistro correcto", "Cerrar");
+                Navigation.PushAsync(new Principal());
+            }
+            else
+            {
+                DisplayAlert("Alerta", resultado, "Cerrar");
+            }
 
         }
         public async void listarHotel()
@@ -54,13 +76,13 @@ namespace HotelReservaciones.Vistas
 
         void listhotel_SelectedIndexChanged(System.Object sender, System.EventArgs e)
         {
-            int id = ((Datos.Hotel)listhotel.SelectedItem).idHotel;
+           // int id = ((Datos.Hotel)listhotel.SelectedItem).idHotel;
            
         }
 
         void ddllTipo_SelectedIndexChanged(System.Object sender, System.EventArgs e)
         {
-            string tipo =((Datos.TipoHabitacion)ddllTipo.SelectedItem).descTipo;
+            //string tipo =((Datos.TipoHabitacion)ddllTipo.SelectedItem).descTipo;
         }
     }
 }

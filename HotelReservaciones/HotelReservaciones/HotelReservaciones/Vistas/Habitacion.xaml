@@ -50,11 +50,7 @@
                                     <Entry x:Name="txtnombreHabitacion" Placeholder="Nombre de la Habitacion"  TextColor="Black" HorizontalOptions="FillAndExpand" Margin="0, 0, 15, 0"></Entry>
                                 </StackLayout>
                             </Frame>
-                              <Frame BackgroundColor="White" BorderColor="DarkGray" Padding="0" Margin="0,5,0,0" CornerRadius="4" HorizontalOptions="FillAndExpand">
-                                <StackLayout Orientation="Horizontal">
-                                    <Entry x:Name="txtUbicacion" Placeholder="Ubicacion"  TextColor="Black" HorizontalOptions="FillAndExpand" Margin="0, 0, 15, 0"></Entry>
-                                </StackLayout>
-                            </Frame>
+                         
                              <Frame BackgroundColor="White" BorderColor="DarkGray" Padding="0" Margin="0,5,0,0" CornerRadius="4" HorizontalOptions="FillAndExpand">
                                 <StackLayout Orientation="Horizontal">
                                     <Entry x:Name="txtfoto1Habitacion" Placeholder="Url Fotografia"  TextColor="Black" HorizontalOptions="FillAndExpand" Margin="0, 0, 15, 0"></Entry>
